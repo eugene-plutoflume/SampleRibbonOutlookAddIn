@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.271
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleRibbonOutlookAddIn", "SampleRibbonOutlookAddIn\SampleRibbonOutlookAddIn.csproj", "{92DD21D0-B86C-446B-B0F6-4D68FC3871DA}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SampleAddinSetup", "SampleAddinSetup\SampleAddinSetup.vdproj", "{AF0D0AE9-0296-419B-AA30-D4E45EDB45FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,8 @@ Global
 		{92DD21D0-B86C-446B-B0F6-4D68FC3871DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92DD21D0-B86C-446B-B0F6-4D68FC3871DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92DD21D0-B86C-446B-B0F6-4D68FC3871DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF0D0AE9-0296-419B-AA30-D4E45EDB45FD}.Debug|Any CPU.ActiveCfg = Debug
+		{AF0D0AE9-0296-419B-AA30-D4E45EDB45FD}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
